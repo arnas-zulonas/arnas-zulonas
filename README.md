@@ -1,5 +1,5 @@
 <div>
-<div align="left">Hi 👋, I'm Arnas</div>
+<span align="left">Hi 👋, I'm Arnas</span>
 <a href="https://twitter.com/arnas_zulonas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnas_zulonas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnas-zulonas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnas-zulonas" height="30" width="40" /></a>
 </div>
