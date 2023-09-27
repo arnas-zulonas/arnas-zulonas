@@ -1,7 +1,7 @@
 <br clear="both" />
 
 <h2 align="center">Hi 👋! My name is Arnas and I'm a junior full-stack developer, based in Vilnius, Lithuania.</h2>
-<img align="left" height="150" src="https://i.imgflip.com/7qcvbe.jpg" />
+<!-- <img align="left" height="150" src="https://i.imgflip.com/7qcvbe.jpg" /> -->
 
 <div align="center">
   <img
