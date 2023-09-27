@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnas</h1>
 <h3 align="center">A passionate full-stack developer from Lithuania</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnas-zulonas&label=Profile%20views&color=0e75b6&style=flat" alt="arnas-zulonas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnas-zulonas" alt="arnas-zulonas" /></a> </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/arnas_zulonas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnas_zulonas" height="30" width="40" /></a>
