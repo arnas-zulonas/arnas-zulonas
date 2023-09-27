@@ -55,10 +55,11 @@
     <div align="left">
     <img src="https://profile-counter.glitch.me/arnas-zulonas/count.svg?" />
   </div>
-</div>
-  <div align="right">
+    <div align="right">
     <a href="https://open.spotify.com/user/piarn">
       <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
     </a>
   </div>
+</div>
+
 <br clear="both" />
