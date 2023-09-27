@@ -16,6 +16,6 @@
 
 <div align="center">
 <p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=arnas-zulonas&show_icons=true&locale=en" alt="arnas-zulonas" /></p>
-<p><img align="left" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arnas-zulonas&show_icons=true&locale=en&layout=compact" alt="arnas-zulonas" /></p>
+<p><img align="right" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arnas-zulonas&show_icons=true&locale=en&layout=compact" alt="arnas-zulonas" /></p>
 </div>
 
