@@ -1,4 +1,4 @@
-<div>
+<div width="100%">
 <span align="left">Hi 👋, I'm Arnas</span>
 <div align="right>  
 <a href="https://twitter.com/arnas_zulonas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnas_zulonas" height="30" width="40" /></a>
