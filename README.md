@@ -1,8 +1,5 @@
 <br clear="both" />
 
-<h2 align="center">Hi 👋! My name is Arnas and I'm a junior full-stack developer, based in Vilnius, Lithuania.</h2>
-<!-- <img align="left" height="150" src="https://i.imgflip.com/7qcvbe.jpg" /> -->
-
 <div align="center">
   <img
     src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
