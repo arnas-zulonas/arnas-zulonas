@@ -52,13 +52,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=arnas-zulonas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"
     height="150"
     alt="languages graph" />
-    <div align="left">
+    <div align="center">
     <img src="https://profile-counter.glitch.me/arnas-zulonas/count.svg?" />
-  </div>
-    <div align="right">
-    <a href="https://open.spotify.com/user/piarn">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-    </a>
   </div>
 </div>
 
