@@ -1,7 +1,7 @@
 <div width="100%">
   <h2 align="center">Hi 👋, I'm Arnas</h2>
-    <a href="https://twitter.com/arnas_zulonas" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnas_zulonas" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/arnas-zulonas" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnas-zulonas" height="30" width="40" /></a>
+    <a href="https://twitter.com/arnas_zulonas" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnas_zulonas" height="30" width="40" /></a>
    <a href="https://linkedin.com/in/arnas-zulonas" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arnas-zulonas" height="30" width="40" /></a>
 </div>
 
