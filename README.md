@@ -11,12 +11,12 @@
 <div width="100%">
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=arnas-zulonas&show_icons=true&theme=tokionyght" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=arnas-zulonasshow_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=arnas-zulonasshow_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api?username=arnas-zulonas&show_icons=true" />
 </picture>
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=arnas-zulonas&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=arnas-zulonasshow_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=arnas-zulonasshow_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api?username=arnas-zulonas&show_icons=true" />
 </picture>
 </div>
